@@ -1,0 +1,10 @@
+{
+	"id": "action-items-collector",
+	"name": "Action Items Collector",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Automatically collects lines starting with '//' and moves them to an 'Action Items' section at the top of the note.",
+	"author": "Gabe Knuth (and Claude!)",
+	"authorUrl": "https://github.com/GabeKnuth",
+	"isDesktopOnly": false
+}
